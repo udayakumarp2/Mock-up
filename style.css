@@ -1,0 +1,116 @@
+#MainDiv {
+  float: left;
+}
+
+#Name {
+  float: left;
+}
+
+#content {
+  padding: 20px;
+}
+
+#size {
+  float: right;
+}
+
+#Portfolio {
+  font-family: "Helvetica Neue";
+  font-size: 28pt;
+  font-weight: bold;
+  text-align: center;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+#footer {
+  background-color: #3d3d3d;
+  color: white;
+  text-align: center;
+  margin: 10px;
+}
+
+#techniqueContainer {
+  border-top: 2.5px solid #0d4b6e;
+  text-align: center;
+}
+
+#majesticContainer {
+  border-top: 2.5px solid #0d4b6e;
+  text-align: center;
+}
+
+#silverZimContainer {
+  border-top: 2.5px solid #0d4b6e;
+  text-align: center;
+}
+#techniqueHeader {
+  font-family: Helvetica;
+  font-size: 24pt;
+  font-weight: lighter;
+}
+
+#majesticHeader {
+  font-family: Helvetica;
+  font-size: 24pt;
+  font-weight: lighter;
+}
+
+#silverZimHeader {
+  font-family: Helvetica;
+  font-size: 24pt;
+  font-weight: lighter;
+}
+
+#techniqueBottom {
+  border-bottom: 10px solid #0d4b6e;
+  font-family: "Libre Baskerville";
+  text-align: center;
+  font-style: italic;
+  color: #bb1f25;
+}
+
+#majesticBottom {
+  border-bottom: 10px solid #0d4b6e;
+  font-family: "Libre Baskerville";
+  text-align: center;
+  font-style: italic;
+  color: #bb1f25;
+}
+
+#silverZimBottom {
+  border-bottom: 10px solid #0d4b6e;
+  font-family: "Libre Baskerville";
+  text-align: center;
+  font-style: italic;
+  color: #bb1f25;
+}
+#logo {
+  margin-bottom: 20px;
+  margin-left: 100px;
+  width: 150px;
+  height: 70px;
+}
+#introduction {
+  font-family: Helvetica;
+  font-weight: bold;
+  font-size: 28pt;
+}
+
+#introduction {
+  font-family: Helvetica;
+  font-size: 28pt;
+  font-weight: lighter;
+}
+
+#boatRide {
+  margin-bottom: 20px;
+}
+
+#roadRide {
+  margin-bottom: 20px;
+}
+
+#treeClimb {
+  margin-bottom: 20px;
+}
